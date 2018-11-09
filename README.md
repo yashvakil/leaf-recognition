@@ -1,6 +1,6 @@
 # leaf-recognition
-A python desktop application used to recognise species from its leaf image
-Uses concepts of Image Processing and Machine Learning
+A python desktop application used to recognise species from its leaf image. 
+Uses concepts of Image Processing and Machine Learning.
 It classifies the following 7 species
 1.	Acer Palmatum
 2.	Cedrus Deodara
