@@ -14,7 +14,9 @@ To run the project run **Executioner.py**
 
 For further details please refer **Project Details.pdf**
 
-|----------------KNN--------------------|------------------SVM--------------------|-----------------MLP---------------------|
-| ![alt text](./KNN.png?raw=true "KNN") | ![alt text]( ./SVM.png?raw=true "MLP" ) | ![alt text]( ./MLP.png?raw=true "MLP" ) |
-|---------------------------------------|-----------------------------------------|-----------------------------------------|
+
+![alt text](./KNN.png?raw=true "KNN") 
+![alt text]( ./SVM.png?raw=true "MLP" )
+![alt text]( ./MLP.png?raw=true "MLP" )
+
 
